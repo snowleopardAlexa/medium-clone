@@ -26,7 +26,7 @@ const {
 
 // function submit comment
 const onSubmit: SubmitHandler<IFormInput> = async(data) => {
-    await fetch('/api/createComment', {
+      fetch('/api/createComment', {
         method: "POST",
         body: JSON.stringify(data),
     })
