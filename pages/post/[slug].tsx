@@ -116,7 +116,7 @@ const {
               />
           </label>
 
-          {/* form validation errors */}
+          {/* errors will return when field validation fails */}
           <div className="flex flex-col p-5">
               {errors.name && (
                   <span className="text-red-500">
@@ -131,6 +131,12 @@ const {
                   - The Name Field is required</span>
               )}
           </div>
+          {/* button submit form */}
+          <input 
+            
+            type="submit" 
+            className="shadow bg-yellow-500 hover:bg-yellow-400 focus:shadow-outline focus:outline-none 
+          text-white font-bold py-2 px-4 rounded cursor-pointer" />
       </form>
     </main>
   )
