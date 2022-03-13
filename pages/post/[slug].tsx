@@ -79,18 +79,58 @@ const {
           <h3 className="text-sm text-yellow-500">Enjoyed this article?</h3>
           <h4 className="text-3xl font-bold">Leave a commment below!</h4>
           <hr className="py-3 mt-2" />
+
+        {/* form validation */}
+          <input 
+           {...register("_id")}
+            type="hidden"
+            name="_id"
+            value={post._id}
+          />
+
           <label className="block mb-5">
               <span className="text-grey-700">Name</span>
-              <input className="shadow border rounded py-2 px-3 form-input mt-1 block w-full ring-yellow-500" placeholder="Name" type="text" />
+              <input 
+              {...register("name", { required: true })}
+                className="shadow border rounded py-2 px-3 form-input mt-1 block w-full ring-yellow-500" 
+                placeholder="Name" 
+                type="text" 
+              />
           </label>
           <label className="block mb-5">
               <span>Email</span>
-              <input className="shadow border rounded py-2 px-3 form-input mt-1 block w-full ring-yellow-500" placeholder="Email" type="text" />
+              <input 
+              {...register("email", { required: true })}
+                className="shadow border rounded py-2 px-3 form-input mt-1 block w-full ring-yellow-500" 
+                placeholder="Email" 
+                type="text" 
+              />
           </label>
           <label className="block mb-5">
               <span>Comment</span>
-              <textarea className="shadow border rounded py-2 px-3 form-textarea mr-1 w-full ring-yellow-500 outline-none focus:ring" placeholder="Type a comment..." rows={8} />
+              <textarea 
+              {...register("comment", { required: true })}
+                className="shadow border rounded py-2 px-3 form-textarea mr-1 w-full ring-yellow-500 outline-none focus:ring" 
+                placeholder="Type a comment..." 
+                rows={8} 
+              />
           </label>
+
+          {/* form validation errors */}
+          <div className="flex flex-col p-5">
+              {errors.name && (
+                  <span className="text-red-500">
+                  - The Name Field is required</span>
+              )}
+               {errors.email && (
+                  <span className="text-red-500">
+                  - The Name Field is required</span>
+              )}
+               {errors.comment && (
+                  <span className="text-red-500">
+                  - The Name Field is required</span>
+              )}
+          </div>
       </form>
     </main>
   )
