@@ -47,7 +47,7 @@ const Post = ({ post }: Props) => {
     <main>
       <Header />
       <img
-        className="h-40 w-full object-cover"
+        className="h-100 w-full object-cover"
         src={urlFor(post.mainImage).url()!}
         alt="post-image-cover"
       />
