@@ -109,7 +109,7 @@ const Post = ({ post }: Props) => {
           className="my-10 mx-auto mb-10 flex max-w-2xl flex-col p-5"
         >
           <h3 className="text-sm text-yellow-500">Enjoyed this article?</h3>
-          <h4 className="text-3xl font-bold">Leave a commment below!</h4>
+          <h4 className="text-3xl font-bold">Leave a comment below!</h4>
           <hr className="mt-2 py-3" />
 
           {/* form validation */}
