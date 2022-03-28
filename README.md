@@ -18,9 +18,9 @@
     <br />
     <a href="https://medium-clone-snowleopardalexa.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/github_snowleopardAlexa/medium-clone/issues">Report Bug</a>
+    <a href="https://github.com/snowleopardAlexa/medium-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_snowleopardAlexa/medium-clone/issues">Request Feature</a>
+    <a href="https://github.com/snowleopardAlexa/medium-clone/issues">Request Feature</a>
   </p>
 </div>
 
