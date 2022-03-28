@@ -39,8 +39,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#dependencies">Dependencies</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -76,14 +76,6 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
 1. Register to Sanity.io and get a free API Key at [Key](https://www.sanity.io/)
@@ -99,9 +91,18 @@ This is an example of how to list things you need to use the software and how to
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+   
+### Dependencies
+
+* @sanity/image-url": "^1.0.1",
+* next": "latest",
+* next-sanity": "^0.5.1",
+* react": "^17.0.2",
+* react-dom": "^17.0.2",
+* react-hook-form": "^7.28.0",
+* react-portable-text": "^0.4.3"
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
