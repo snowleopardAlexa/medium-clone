@@ -117,9 +117,15 @@ _For more examples, please refer to the [Documentation](https://www.sanity.io/do
 <!-- ROADMAP -->
 ## Roadmap
 
-- Implementing SanityCMS into a project
-- Fetching Posts from database
-- Implementing Comments section 
+- Setting up Next.js, TailwindCSS and SanityCMS
+- Building Header Component
+- Implementing SanityCMS
+- Implementing Next.js Server Side Rendering
+- Implementing Posts Component
+- Linking to Post Page
+- Building Post Page
+- Implementing Comments Functionality
+- Deploying to Vercel
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
