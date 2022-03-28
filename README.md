@@ -81,7 +81,7 @@ To get a local copy up and running follow these simple example steps.
 1. Register to Sanity.io and get a free API Key at [Key](https://www.sanity.io/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/snowleopardAlexa/medium-clone.git
    ```
 3. Install NPM packages
    ```sh
