@@ -152,7 +152,8 @@ None
 <!-- CONTACT -->
 ## Contact
 
-Aleksandra Slomska - [@twitter_handle](https://www.linkedin.com/in/aleksandra-slomska-1039681b3/) - aleksandravslomska@gmail.com
+Aleksandra Slomska -  ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/aleksandra-slomska-1039681b3/)}) 
+aleksandravslomska@gmail.com - ![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}) 
 
 Project Link: [https://github.com/snowleopardAlexa/medium-clone](https://github.com/github_username/repo_name)
 
