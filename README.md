@@ -152,12 +152,9 @@ None
 <!-- CONTACT -->
 ## Contact
 
-Aleksandra Slomska -  ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/aleksandra-slomska-1039681b3/)}) 
-aleksandravslomska@gmail.com - ![image]({}) 
+Aleksandra Slomska - aleksandravslomska@gmail.com
 
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
-
-Project Link: [https://github.com/snowleopardAlexa/medium-clone](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/snowleopardAlexa/medium-clone]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
