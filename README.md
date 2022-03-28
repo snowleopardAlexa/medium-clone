@@ -152,7 +152,7 @@ None
 <!-- CONTACT -->
 ## Contact
 
-Aleksandra Slomska - [@linkedin_handle](https://www.linkedin.com/in/aleksandra-slomska-1039681b3/) - aleksandravslomska@gmail.com
+Aleksandra Slomska - [@twitter_handle](https://www.linkedin.com/in/aleksandra-slomska-1039681b3/) - aleksandravslomska@gmail.com
 
 Project Link: [https://github.com/snowleopardAlexa/medium-clone](https://github.com/github_username/repo_name)
 
@@ -162,7 +162,7 @@ Project Link: [https://github.com/snowleopardAlexa/medium-clone](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/snowleopardAlexa/medium-clone.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
