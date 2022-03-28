@@ -58,11 +58,6 @@
 
 ![Alt text](/public/medium-clone.png?raw=true "Medium Clone")(https://medium-clone-snowleopardalexa.vercel.app/)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 ### Built With
 
 * [SanityCMS](https://www.sanity.io/)
@@ -119,19 +114,14 @@ _For more examples, please refer to the [Documentation](https://www.sanity.io/do
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- [ ] Implementing SanityCMS into a project
+- [ ] Fetching Posts from database
+- [ ] Implementing Comments section 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -151,14 +141,12 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- LICENSE -->
 ## License
 
 None
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
