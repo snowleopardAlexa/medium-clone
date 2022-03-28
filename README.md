@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Medium-Clone
 
-[[]](https://medium-clone-snowleopardalexa.vercel.app/)
+![alt text](https://github.com/[snowleopardAlexa]/[medium-clone]/blob/[main]/medium-clone.png?raw=true)(https://medium-clone-snowleopardalexa.vercel.app/)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -68,7 +68,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [SanityCMS](https://www.sanity.io/)
 * [React.js](https://reactjs.org/)
 * [Next.js](https://nextjs.org/)
-* [ISR] - Incremental Static Regeneration(https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration)
+* [Incremental Static Regeneration](https://nextjs.org/docs/basic-features/data-fetching/incremental-static-regeneration)
 * [TypeScript.js](https://jquery.com)
 * [TailwindCSS](https://jquery.com)
 
@@ -100,7 +100,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Create local .env file and enter your API key there.
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -112,7 +112,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This project can be used as a personal blog. You will be able to add posts, manage posts, and control comments sections under the posts. Everyone on the Internet will be able to comment your posts, but you can delete users comments at any moment while using Sanity Content Management System (CMS). You must register with SanityCMS and create your own API key in order to use this code. You can customize posts in your SanityCMS account. You can change the post title, description, and upload different photo. This is a frontend code that you can use for your needs. 
 
 _For more examples, please refer to the [Documentation](https://www.sanity.io/docs/getting-started)_
 
