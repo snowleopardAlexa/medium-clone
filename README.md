@@ -117,9 +117,9 @@ _For more examples, please refer to the [Documentation](https://www.sanity.io/do
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Implementing SanityCMS into a project
-- [ ] Fetching Posts from database
-- [ ] Implementing Comments section 
+- Implementing SanityCMS into a project
+- Fetching Posts from database
+- Implementing Comments section 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
