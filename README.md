@@ -13,14 +13,14 @@
   <p align="center">
     This is a Medium Clone that represents basic functionality - add a post, manage a post, comment on a post. The project is built with SanityCMS for a backend server and it is using Next.js Incremental Static Regeneration (ISR) that enables you to use static-generation on a per-page basis, without needing to rebuild the entire site. The project is typed in TypeScript and styled with TailwindCSS. 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/snowleopardAlexa/medium-clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://medium-clone-snowleopardalexa.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/github_snowleopardAlexa/medium-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_snowleopardAlexa/medium-clone/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Medium-Clone
 
-![alt text](https://github.com/[snowleopardAlexa]/[medium-clone]/blob/[main]/medium-clone.png?raw=true)(https://medium-clone-snowleopardalexa.vercel.app/)
+![Alt text](/public/medium-clone.png?raw=true "Medium Clone")(https://medium-clone-snowleopardalexa.vercel.app/)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
