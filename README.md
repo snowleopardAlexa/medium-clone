@@ -154,7 +154,7 @@ None
 
 Aleksandra Slomska - aleksandravslomska@gmail.com
 
-Project Link: [https://github.com/snowleopardAlexa/medium-clone]
+Project Link: https://github.com/snowleopardAlexa/medium-clone
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
